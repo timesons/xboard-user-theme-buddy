@@ -53,7 +53,7 @@ window.config={
         ],
     },
     homeBanner: {
-        display: true, // 是否显示首页横幅
+        display: false, // 是否显示首页横幅
         title: '邀请好友，共享优惠', // 首页banner标题
         link: '/dashboard/invite', // 首页banner链接，站内链接
         btnText: '立即邀请', // 首页banner按钮文字
