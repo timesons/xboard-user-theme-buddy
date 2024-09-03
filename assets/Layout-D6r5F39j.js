@@ -60808,10 +60808,10 @@ const c$ = "_card_1p3bd_1",
                     p > 5
                       ? `${((p - 5) * 1e3).toFixed(0)}GB`
                       : p > 4
-                      ? `${((p - 4) * 1e3).toFixed(0)}GB`
+                      ? `${((p - 4) * 1e3).toFixed(0)}M`
                       : p > 3
-                      ? `${((p - 3) * 1e3).toFixed(0)}GB`
-                      : `${(p - 2).toFixed(1)}GB`,
+                      ? `${((p - 3) * 1e3).toFixed(0)}KB`
+                      : `${(p - 2).toFixed(1)}B`,
                 },
                 min: 2.8,
                 max: 5.2,
