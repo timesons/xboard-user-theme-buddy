@@ -1109,7 +1109,7 @@ const _t = ["top", "right", "bottom", "left"],
   Et = d(
     "a",
     { href: "https://t.me/gjtq_net", target: "_blank" },
-    "ThemeBuddy",
+    "@gjtq_net",
     -1
   ),
   zt = [At, Et],
