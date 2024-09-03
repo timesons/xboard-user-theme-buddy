@@ -26,6 +26,7 @@
   flex-direction: column;
 }
 ._tooltip_n22tb_27 {
+  display: none;
   display: flex;
   flex-direction: column;
   padding: 12px;
