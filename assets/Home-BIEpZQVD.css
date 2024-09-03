@@ -52,6 +52,7 @@
     font-size: 14px;
     color: #fff;
     background-color: var(--bg);
+    background: linear-gradient(to left, #05b1fe, #047fff);
     transition: all .3s ease-in-out
 }
 
