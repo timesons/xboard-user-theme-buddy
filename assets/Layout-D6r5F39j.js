@@ -60798,26 +60798,7 @@ const c$ = "_card_1p3bd_1",
                 splitLine: { show: !1 },
               },
             ],
-            yAxis: [
-              {
-                type: "value",
-                splitLine: { show: !1 },
-                axisLabel: {
-                  show: !0,
-                  formatter: (p) =>
-                    p > 5
-                      ? `${((p - 5) * 1e3).toFixed(0)}GB`
-                      : p > 4
-                      ? `${((p - 4) * 1e3).toFixed(0)}M`
-                      : p > 3
-                      ? `${((p - 3) * 1e3).toFixed(0)}KB`
-                      : `${(p - 2).toFixed(1)}B`,
-                },
-                min: 2.8,
-                max: 5.2,
-                interval: 0.5,
-              },
-            ],
+    
             series: [
               {
                 name: "总消耗流量",
