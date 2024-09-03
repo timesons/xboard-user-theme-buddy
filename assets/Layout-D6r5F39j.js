@@ -60875,7 +60875,7 @@ const c$ = "_card_1p3bd_1",
             element: o,
             bgImg: s,
           } = window.config.homeBanner;
-          return { title: a, link: n, btnText: i, element: o, bgImg: s };
+          return { title: a, link: n, btnText: i, element: o, bgImg: s};
         });
       return (a, n) => (
         na(),

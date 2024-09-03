@@ -57,7 +57,8 @@ window.config={
         title: '邀请好友，共享优惠', // 首页banner标题
         link: '/dashboard/invite', // 首页banner链接，站内链接
         btnText: '立即邀请', // 首页banner按钮文字
-        element: 'https://gd-hbimg.huaban.com/e68ceb12ffbd7dbeb698b3c5f4d2ed90185241be25183e-tShOmr_fw1200webp', // 首页banner元素图片
-        bgImg: 'https://gd-hbimg.huaban.com/246ac6f06aeeab3b0c7e5908e7693b9a0e1b8a5249899-hB42f3_fw1200', // 首页banner背景图片
+        // element: 'https://gd-hbimg.huaban.com/e68ceb12ffbd7dbeb698b3c5f4d2ed90185241be25183e-tShOmr_fw1200webp', // 首页banner元素图片
+        background: 'linear-gradient(to right, rgb(198, 107, 255) 0%, rgb(245, 236, 254) 40%, rgb(255, 235, 59) 100%)'
+        // bgImg: 'https://gd-hbimg.huaban.com/246ac6f06aeeab3b0c7e5908e7693b9a0e1b8a5249899-hB42f3_fw1200', // 首页banner背景图片
     }
 }
