@@ -1,13 +1,13 @@
 window.config={
     logo: 'https://user.gjtq.net/dog-logo.svg', // 网站logo
-    title:"GJTQ", // 网站标题
+    title:"范小强", // 网站标题
     host:"https://airport404.com/", // 后端接口地址
     storeHome: {
         title: '选择最适合你的订阅计划', // 套餐页标题
         description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵' // 套餐页描述
     },
     SignPage: {
-        title: '覆盖全球的高速网络，您的高速旅程从 GJTQ 开始', // 登录页标题
+        title: '覆盖全球的高速网络，您的高速旅程从 范小强 开始', // 登录页标题
         desc1: 'High-speed network covering the whole world', // 登录页描述1
         desc2: 'Your high-speed journey starts with AirBus', // 登录页描述2
         inviteCodeEdit: false, // 是否允许用户修改邀请码
