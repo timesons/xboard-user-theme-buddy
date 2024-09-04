@@ -82,6 +82,7 @@
   flex-direction: column;
   overflow: hidden;
   box-shadow: var(--shadow);
+  min-width: 20%;
 }
 @media (max-width: 1024px) {
   ._sideBar_1rfig_1 {
