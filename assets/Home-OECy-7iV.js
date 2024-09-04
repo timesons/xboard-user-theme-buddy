@@ -446,9 +446,9 @@ const ae =
           return (
             (x = x === !1 && l.currentRoute.value.query.code),
             {
-              title: r || "AirBus",
+              title: r || "FXQ",
               desc1: s || "High-speed network covering the whole world",
-              desc2: h || "Your high-speed journey starts with AirBus",
+              desc2: h || "Your high-speed journey starts with FXQ",
               inviteCodeEdit: x,
             }
           );
@@ -1011,7 +1011,7 @@ const ae =
         o = M(() => {
           var i;
           return {
-            title: ((i = window.config) == null ? void 0 : i.title) || "AirBus",
+            title: ((i = window.config) == null ? void 0 : i.title) || "FXQ",
           };
         }),
         g = q();

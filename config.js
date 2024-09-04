@@ -1,6 +1,6 @@
 window.config={
-    // logo: 'https://user.gjtq.net/dog-logo.svg', // 网站logo
-    title:"范小强", // 网站标题
+    logo: 'https://user.gjtq.net/dog-logo.svg', // 网站logo
+    title:"范小强VPN", // 网站标题
     host:"https://airport404.com/", // 后端接口地址
     storeHome: {
         title: '选择最适合你的订阅计划', // 套餐页标题
