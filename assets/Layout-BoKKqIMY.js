@@ -1105,7 +1105,7 @@ const _t = ["top", "right", "bottom", "left"],
   Tt = { class: "text-sm" },
   Lt = d("p", { class: "mt-2 text-white" }, "不会用？连不上了？", -1),
   jt = d("p", { class: "text-white" }, "使用教程中有您所需要的一切", -1),
-  At = d("span", null, "Powered by ", -1),
+  At = d("span", null, "联系我们 ", -1),
   Et = d(
     "a",
     { href: "https://t.me/gjtq_net", target: "_blank" },
