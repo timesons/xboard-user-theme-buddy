@@ -120,7 +120,7 @@
   color: #fff;
   /* background: linear-gradient(180deg, #165dff, #047fff); */
   /* background: linear-gradient(to left, #05b1fe, #047fff); */
-  background: linear-gradient(90deg, #48c6ef 0%, #6f86d6 100%);
+  background: linear-gradient(5deg, white 0%, #2f80ed 100%)
   padding: 24px;
   border-radius: 12px;
   font-size: 16px;
