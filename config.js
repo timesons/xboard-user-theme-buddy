@@ -4,12 +4,12 @@ window.config={
     host:"https://airport404.com/", // 后端接口地址
     storeHome: {
         title: '选择最适合你的订阅计划', // 套餐页标题
-        description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵' // 套餐页描述
+        description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长' // 套餐页描述
     },
     SignPage: {
         title: '覆盖全球的高速网络，解锁所有网站从 范小强 开始', // 登录页标题
         desc1: 'High-speed network covering the whole world', // 登录页描述1
-        desc2: 'Unblock whole websites with FXQ', // 登录页描述2
+        desc2: 'Unblock All websites with FXQ', // 登录页描述2
         inviteCodeEdit: false, // 是否允许用户修改邀请码
     },
     homeClient: {

@@ -51,7 +51,7 @@ const ae =
       e(
         "h2",
         { class: "mt-6 text-3xl font-bold tracking-tight text-gray-900" },
-        "登陆注册"
+        "登陆账号"
       ),
     ],
     -1
@@ -261,7 +261,7 @@ const ae =
       e(
         "h2",
         { class: "mt-6 text-3xl font-bold tracking-tight text-gray-900" },
-        "加入我们"
+        "注册账号"
       ),
     ],
     -1
