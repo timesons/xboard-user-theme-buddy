@@ -1,5 +1,5 @@
 window.config={
-    logo: 'https://user.gjtq.net/woa%402x.png', // 网站logo
+    logo: './woa@2x.png', // 网站logo
     title:"范小强VPN", // 网站标题
     host:"https://airport404.com/", // 后端接口地址
     storeHome: {
