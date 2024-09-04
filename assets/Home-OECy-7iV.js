@@ -1039,7 +1039,8 @@ const ae =
                   e(
                     "p",
                     st,
-                    "Your high-speed journey starts with " + U(o.value.title),
+                    // "Your high-speed journey starts with " + U(o.value.title),
+                    "Your high-speed journey starts with FXQ",
                     1
                   ),
                 ]),
