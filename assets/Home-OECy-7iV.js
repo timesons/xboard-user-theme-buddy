@@ -448,7 +448,7 @@ const ae =
             {
               title: r || "FXQ",
               desc1: s || "High-speed network covering the whole world",
-              desc2: h || "Your high-speed journey starts with FXQ",
+              desc2: h || "Unblock All websites with FXQ",
               inviteCodeEdit: x,
             }
           );
@@ -1030,7 +1030,7 @@ const ae =
                   e(
                     "h4",
                     et,
-                    "覆盖全球的高速网络，您的高速旅程从 " +
+                    "覆盖全球的高速网络，解锁所有网站从 " +
                       U(o.value.title) +
                       " 开始",
                     1
@@ -1040,7 +1040,7 @@ const ae =
                     "p",
                     st,
                     // "Your high-speed journey starts with " + U(o.value.title),
-                    "Your high-speed journey starts with FXQ",
+                    "Unblock All websites with FXQ",
                     1
                   ),
                 ]),
