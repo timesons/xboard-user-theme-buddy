@@ -1,3 +1,10 @@
+@font-face{
+  font-family: 'NotoSansSC-Bold';
+  src: url('../font/static/NotoSansSC-Bold.ttf')
+}
+
+
+
 ._navBar_n22tb_1 {
   flex-grow: 1;
   display: flex;
@@ -12,8 +19,7 @@
   align-items: center;
   padding: 12px 0;
   pointer-events: none;
-  font-family: Fredoka One, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-    serif;
+  font-family: NotoSansSC-Bold;
   font-size: 24px;
 }
 ._titleBar_n22tb_9 img {
