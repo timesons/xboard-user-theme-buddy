@@ -1,5 +1,5 @@
 window.config={
-    logo: './woa2x.png', // 网站logo
+    logo: './Rainbow.png', // 网站logo
     title:"PassWall.Cloud", // 网站标题
     host:"https://airport404.com/", // 后端接口地址
     storeHome: {
