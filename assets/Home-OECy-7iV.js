@@ -446,9 +446,9 @@ const ae =
           return (
             (x = x === !1 && l.currentRoute.value.query.code),
             {
-              title: r || "FXQ",
+              title: r || "PassWall.Cloud",
               desc1: s || "High-speed network covering the whole world",
-              desc2: h || "Unblock All websites with FXQ",
+              desc2: h || "Unblock All websites with PassWall.Cloud",
               inviteCodeEdit: x,
             }
           );
@@ -1011,7 +1011,7 @@ const ae =
         o = M(() => {
           var i;
           return {
-            title: ((i = window.config) == null ? void 0 : i.title) || "FXQ",
+            title: ((i = window.config) == null ? void 0 : i.title) || "PassWall.Cloud",
           };
         }),
         g = q();
@@ -1040,7 +1040,7 @@ const ae =
                     "p",
                     st,
                     // "Your high-speed journey starts with " + U(o.value.title),
-                    "Unblock All websites with FXQ",
+                    "Unblock All websites with PassWall.Cloud",
                     1
                   ),
                 ]),
