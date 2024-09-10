@@ -20,35 +20,35 @@ window.config={
                 title: 'Windows客户端(64位)',
                 icon: 'ri:windows-fill',
                 downloadLink: 'https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe', // Windows客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/3', // 使用教程地址
+                knowledgeLink: 'https://passwall.cloud/#/dashboard/knowledge/3', // 使用教程地址
             },
             {
                 key: 'windows',
                 title: 'Windows客户端(arm64架构)',
                 icon: 'ri:windows-fill',
                 downloadLink: 'https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_arm64-setup.exe', // Windows客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/3', // 使用教程地址
+                knowledgeLink: 'https://passwall.cloud/#/dashboard/knowledge/3', // 使用教程地址
             },
             {
                 key: 'mac',
                 title: 'Mac客户端(intel芯片)',
                 icon: 'ri:finder-fill',
                 downloadLink: 'https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg', // Mac客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/2', // 使用教程地址
+                knowledgeLink: 'https://passwall.cloud/#/dashboard/knowledge/2', // 使用教程地址
             },
             {
                 key: 'mac',
                 title: 'Mac客户端(appleM芯片)',
                 icon: 'ri:finder-fill',
                 downloadLink: 'https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg', // Mac客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/2', // 使用教程地址
+                knowledgeLink: 'https://passwall.cloud/#/dashboard/knowledge/2', // 使用教程地址
             },
             {
                 key: 'android',
                 title: 'Android客户端',
                 icon: 'ri:android-fill',
                 downloadLink: 'https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.10.4/cmfa-2.10.4-meta-universal-release.apk', // Android客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/1', // 使用教程地址
+                knowledgeLink: 'https://passwall.cloud/#/dashboard/knowledge/1', // 使用教程地址
             }
             // {
             //     key: 'ios',
