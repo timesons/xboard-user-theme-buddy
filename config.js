@@ -7,9 +7,9 @@ window.config={
         description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长（仅限周期订阅适用）' // 套餐页描述
     },
     SignPage: {
-        title: '覆盖全球的高速网络，解锁所有网站从 PassWall.Cloud™ 开始', // 登录页标题
+        title: '覆盖全球的高速网络，解锁所有网站从 PassWall.Cloud 开始', // 登录页标题
         desc1: 'High-speed network covering the whole world', // 登录页描述1
-        desc2: 'Unblock All websites with PassWall.Cloud™', // 登录页描述2
+        desc2: 'Unblock All websites with PassWall.Cloud', // 登录页描述2
         inviteCodeEdit: false, // 是否允许用户修改邀请码
     },
     homeClient: {
