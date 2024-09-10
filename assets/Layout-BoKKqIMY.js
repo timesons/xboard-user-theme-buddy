@@ -1154,7 +1154,7 @@ const _t = ["top", "right", "bottom", "left"],
                 icon: "material-symbols:airplane-ticket-outline",
               },
               {
-                title: "邀请有奖",
+                title: "邀请返佣",
                 name: "Invite",
                 icon: "mdi:package-outline",
               },

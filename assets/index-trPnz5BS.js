@@ -14158,7 +14158,7 @@ const Fb = ar,
           },
           {
             path: "invite",
-            meta: { title: "邀请有奖", auth: !0 },
+            meta: { title: "邀请返佣", auth: !0 },
             name: "Invite",
             component: () =>
               De(
