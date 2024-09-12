@@ -446,7 +446,7 @@ const ae =
           return (
             (x = x === !1 && l.currentRoute.value.query.code),
             {
-              title: r || "PassWall.Cloud",
+              title: r || "过墙云PassWall.Cloud",
               desc1: s || "High-speed network covering the whole world",
               desc2: h || "Unblock All websites with PassWall.Cloud",
               inviteCodeEdit: x,
@@ -1011,7 +1011,7 @@ const ae =
         o = M(() => {
           var i;
           return {
-            title: ((i = window.config) == null ? void 0 : i.title) || "PassWall.Cloud",
+            title: ((i = window.config) == null ? void 0 : i.title) || "过墙云PassWall.Cloud",
           };
         }),
         g = q();
