@@ -1,6 +1,6 @@
 window.config={
     logo: './Rainbow.png', // 网站logo
-    title:"过墙云PassWall.cloud", // 网站标题
+    title:"过墙云PassWall.Cloud", // 网站标题
     host:"https://airport404.com/", // 后端接口地址
     storeHome: {
         title: '选择最适合你的订阅计划', // 套餐页标题
